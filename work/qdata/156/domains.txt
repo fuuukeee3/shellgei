@@ -1,4 +1,0 @@
-gihyo.jp
-github.com
-gitlab.com
-wikipedia.org
